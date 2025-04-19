@@ -8,4 +8,3 @@ Campaign Outcomes: Analyze the success of marketing campaigns, measuring impact 
 Inventory Management: Monitor inventory levels, stock turnover, and supply chain efficiency to ensure optimal stock levels and minimize costs.
 By leveraging dbt, this project aims to provide a scalable and maintainable data infrastructure that supports data-driven decision-making across the organization.
 
-Setup information can be found [Brave Data Engineering Project Setup - Week 3 & 4](https://docs.google.com/document/d/1DFNScaTC8S_AXgw0ffgOOm7rlzkycdTRpRIZtF_qtrw)
